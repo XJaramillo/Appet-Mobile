@@ -1,0 +1,1 @@
+//# sourceMappingURL=foto.interface.js.map
