@@ -41,6 +41,13 @@ PREPARAMOS ENTORNO
 
 Se ralizo en Google Play Store de la siguiente manera:
 
+Creamos un proyecto con el nombre de la aplicación, subimos capturas principales de la app, ademas del icono y detalles:
+
+![image](https://user-images.githubusercontent.com/38759787/138791623-1b36fbd7-2b03-4cc5-be27-fbd589ffc30d.png)
+
+
+
+
 Verificamos los SDK:
 
 
