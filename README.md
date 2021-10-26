@@ -71,7 +71,7 @@ Una vez revisada, la plataforma ya estara desplegada en Google Play Store!
 
 ## Versiones:
 
-* **Ionic CLI: 6.12.3**
+* **Ionic CLI: 5.4.16**
 * **Ionic Framework : @ionic/angular 5.5.2**
 * **@angular/cli : 10.0.8**
 
