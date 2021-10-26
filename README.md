@@ -66,7 +66,7 @@ Subimos y esperamos a que se revise.
 
 Una vez revisada, la plataforma ya estara desplegada en Google Play Store!
 
-![2g](https://user-images.githubusercontent.com/38759787/138796405-d6c7916c-ce13-4867-aeef-81b66db353e3.jpeg)
+![image](https://user-images.githubusercontent.com/38759787/138796512-a4a9a57b-59a3-427c-8f17-39ea95365f04.png)
 
 
 ## Versiones:
