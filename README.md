@@ -45,6 +45,10 @@ Creamos un proyecto con el nombre de la aplicación, subimos capturas principale
 
 ![image](https://user-images.githubusercontent.com/38759787/138791623-1b36fbd7-2b03-4cc5-be27-fbd589ffc30d.png)
 
+Subimos capturas:
+
+![image](https://user-images.githubusercontent.com/38759787/138797550-ab26dc2b-8f41-422b-a9c8-0eac69c1e2fa.png)
+
 Despues abiremos Andorid Studio para generar el archivo `.apk` o `.aab` el cual se debe subir a la consola de Google Play Store
 
 ![image](https://user-images.githubusercontent.com/38759787/138794842-da2cd99c-dea0-4925-8831-798e9ef66ad0.png)
