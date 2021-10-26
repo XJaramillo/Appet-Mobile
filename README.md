@@ -56,10 +56,17 @@ Generará un archivo con extención tipo`.aab` el cual pide la consola de Google
 
 ![image](https://user-images.githubusercontent.com/38759787/138795196-f8c61789-ed55-425e-99c6-378976d99be6.png)
 
+Elegimos el documento generado
+
 ![image](https://user-images.githubusercontent.com/38759787/138795559-258b49f7-484b-4a19-893d-d8dd1cdaea3e.png)
 
-Verificamos los SDK:
+Subimos y esperamos a que se revise.
 
+![image](https://user-images.githubusercontent.com/38759787/138796289-03362e95-1e6f-4fbe-9016-8bd2ed3bb983.png)
+
+Una vez revisada, la plataforma ya estara desplegada en Google Play Store!
+
+![2g](https://user-images.githubusercontent.com/38759787/138796405-d6c7916c-ce13-4867-aeef-81b66db353e3.jpeg)
 
 
 ## Versiones:
