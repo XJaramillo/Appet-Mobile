@@ -94,7 +94,7 @@ Revisa el `Video` clic en el siguiente enlace [Uso Appet Móvil](https://www.you
 
 ## Descarga El APK
 
-Descarga `APK` clic en el siguiente enlace [Appet](). :white_check_mark:
+Descarga `APK` clic en el siguiente enlace [Appet](https://download1326.mediafire.com/waan232rcdzg/jvq2qmkoy9joqdr/Appet.apk). :white_check_mark:
 
 
 
