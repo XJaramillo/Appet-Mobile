@@ -52,6 +52,11 @@ Despues abiremos Andorid Studio para generar el archivo `.apk` o `.aab` el cual 
 
 ![image](https://user-images.githubusercontent.com/38759787/138794894-8dd419dd-2fc2-4392-bd19-a20cf19645f9.png)
 
+Generará un archivo con extención tipo`.aab` el cual pide la consola de Google Play Store, este archivo App Bundle o AAB es un contenedor modular que en vez de un solo archivo, lo que tenemos es un contenedor con varios archivos APK, en los que está la aplicación base y todos los recursos.
+
+![image](https://user-images.githubusercontent.com/38759787/138795196-f8c61789-ed55-425e-99c6-378976d99be6.png)
+
+![image](https://user-images.githubusercontent.com/38759787/138795559-258b49f7-484b-4a19-893d-d8dd1cdaea3e.png)
 
 Verificamos los SDK:
 
