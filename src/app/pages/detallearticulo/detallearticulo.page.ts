@@ -112,7 +112,7 @@ export class DetallearticuloPage implements OnInit {
     });
     const toast = await this.toastController.create({
       color: 'dark',
-      message: 'Artículo eliminado correctamente',
+      message: 'Servicio eliminado correctamente',
       duration: 2000
     });
     toast.present();

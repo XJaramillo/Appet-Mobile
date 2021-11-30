@@ -77,18 +77,20 @@ export class NuevoarticuloPage implements OnInit {
 
   public errorMessages = {
     tituloa: [
-      { type: 'required', message: '*' },
+      { type: 'required', message: 'Debe ingresar el titulo del servicio' },
       { type: 'pattern', message: 'Debe ingresar el titulo del servicio' }
     ],
     descripciona: [
-      { type: 'required', message: '*' },
+      { type: 'required', message: 'Ingrese una descripción para el servicio' },
       { type: 'pattern', message: 'Ingrese una descripción para el servicio' }
     ],
     telefonoa: [
-      { type: 'pattern', message: 'Número incorrecto, por favor verifique el número' }
+      { type: 'required', message: 'Ingrese correctamente el número de contacto' },
+      { type: 'pattern', message: 'Teléfono incorrecto' }
     ],
     costoa: [
-      { type: 'pattern', message: 'Debe ingresar el costo del servicio' }
+      { type: 'required', message: 'Debe ingresar el precio del servicio' },
+      { type: 'pattern', message: 'Debe ingresar el precio del servicio' }
     ]
 
   }
@@ -97,7 +99,7 @@ export class NuevoarticuloPage implements OnInit {
     tituloa: ['', [Validators.required, Validators.minLength(2)]],
     descripciona: ['', [Validators.required, Validators.minLength(2)]],
     telefonoa: ['', Validators.pattern("^((\\+593-?)|0)?[0-9]{9}$")],
-    costoa: ['', [Validators.required, Validators.minLength(1)]]
+    costoa: ['', [Validators.required, Validators.minLength(1), Validators.maxLength(3)]]
   });
 
   constructor(private router: Router,
